@@ -1,4 +1,10 @@
-
+body {
+    margin: 20px;
+}
 .card{
     max-width: 1024px;
+}
+
+.adjustcontent {
+    width: fit-content;
 }
